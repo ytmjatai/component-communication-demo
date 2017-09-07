@@ -1,0 +1,11 @@
+.vscode
+.idea
+dist
+node_modules
+bower_components
+typings
+aot
+src/**/*.css
+src/**/*.css.map
+src/**/*.js
+src/**/*.js.map
